@@ -4,7 +4,7 @@ public class Percobaan1 {
         if (n==0) {
             return (1);
         } else {
-            return (n * faktorialRekursif(-1));
+            return (n * faktorialRekursif(n-1));
         }
     }
 
