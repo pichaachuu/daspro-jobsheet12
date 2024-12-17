@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "haha",
+            "request": "launch",
+            "mainClass": "haha",
+            "projectName": "daspro-jobsheet12_cf8a4b45"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan1",
+            "request": "launch",
+            "mainClass": "Percobaan1",
+            "projectName": "daspro-jobsheet12_cf8a4b45"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan2",
+            "request": "launch",
+            "mainClass": "Percobaan2",
+            "projectName": "daspro-jobsheet12_cf8a4b45"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan3",
+            "request": "launch",
+            "mainClass": "Percobaan3",
+            "projectName": "daspro-jobsheet12_cf8a4b45"
+        },
+        {
+            "type": "java",
+            "name": "Tugas",
+            "request": "launch",
+            "mainClass": "Tugas",
+            "projectName": "daspro-jobsheet12_cf8a4b45"
+        }
+    ]
+}
